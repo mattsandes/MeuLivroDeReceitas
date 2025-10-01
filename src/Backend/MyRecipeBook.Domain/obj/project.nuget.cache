@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "q4IqyK39DEPQ1aKt47US1UM2v5vwY6tU8Ee8sPS/BL+Ssj466AxdLY5iJMBhtPBZPjw92IY1jgryKJ0PyyPYiQ==",
+  "dgSpecHash": "IAcWaoJ4QEe82OCJ4kwDvUu9aoj+TxO8JHIgZjzvOs3LO90B1hBmh7iVZk70fvt1d2IEyhZ7VKjEXMaO8w4JkQ==",
   "success": true,
   "projectFilePath": "/home/mateus/Personal/MeuLivroDeReceitas/src/Backend/MyRecipeBook.Domain/MyRecipeBook.Domain.csproj",
   "expectedPackageFiles": [],

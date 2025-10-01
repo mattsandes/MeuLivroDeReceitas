@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "bzBR6F7rmcpu/Gh3+6qYpZMBTOdSzwCfFRSkbXJ6mXedIEcIslIMyH+e9fSBcycrLgC84Cq7cOdYTbV1EeaRhQ==",
+  "dgSpecHash": "oCjta6P6UnjYHSUy2XASdaPpUAgOlRPijN3VLo+1gtcbw3BWNy/cNJGjlRYNY7vxZ7xjItMPybxLzbNtqbNYJg==",
   "success": true,
   "projectFilePath": "/home/mateus/Personal/MeuLivroDeReceitas/src/Backend/MyRecipeBooks.API/MyRecipeBooks.API.csproj",
   "expectedPackageFiles": [
+    "/home/mateus/.nuget/packages/fluentvalidation/12.0.0/fluentvalidation.12.0.0.nupkg.sha512",
     "/home/mateus/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "/home/mateus/.nuget/packages/microsoft.openapi/1.6.14/microsoft.openapi.1.6.14.nupkg.sha512",
     "/home/mateus/.nuget/packages/swashbuckle.aspnetcore/6.6.2/swashbuckle.aspnetcore.6.6.2.nupkg.sha512",

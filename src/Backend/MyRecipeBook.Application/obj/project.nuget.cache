@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "sDDYSJ8pwj/NZyr+/tfJm2DDTSS3mK8XEegejivxheCu9+5WTjo475Mrb7k05Ep11l4Yi/iVRO2bpeAPSH/EIw==",
+  "dgSpecHash": "EOghp4Rzbh4YKd+6OtW6e946fdVGglu4rkiNTMS1ikRYhlhFRQGY3zYZfIHdteHVQ+iO3gfvRx3omgzxHNgfFQ==",
   "success": true,
   "projectFilePath": "/home/mateus/Personal/MeuLivroDeReceitas/src/Backend/MyRecipeBook.Application/MyRecipeBook.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/mateus/.nuget/packages/fluentvalidation/12.0.0/fluentvalidation.12.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
