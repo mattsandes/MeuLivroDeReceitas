@@ -1,6 +1,7 @@
 using MyRecipeBook.Application.Usecases.User.Register;
 using MyRecipeBook.Communication.Requests;
 using MyRecipeBook.Communication.Responses;
+using MyRecipeBook.Exceptions.ExceptionsBase;
 
 namespace MyRecipeBook.Communication.Usecases.User.Regsiter;
 
@@ -30,7 +31,7 @@ public class RegisterUserUseCase
         {
             var errorMessages = result.Errors.Select(e => e.ErrorMessage);
 
-            throw new ArgumentException(errorMessages.ToString());
+            throw new ErrorOnValdiationException(errorMessages.ToList());
         }
     }
 }
