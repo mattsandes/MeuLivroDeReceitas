@@ -1,0 +1,45 @@
+# .NET build
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+[Tt]est[Rr]esults/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+.nuget/
+packages/
+*.lock.json
+
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.csproj.user
+
+# JetBrains Rider / IntelliJ
+.idea/
+*.iml
+
+# Cache/coverage
+*.coverage
+*.coveragexml
+coverage/
+.coverage/
+.vscode/
+
+# Front-end (se usar)
+node_modules/
+dist/
+build/
+*.map
+
+# SOs
+.DS_Store
+Thumbs.db
+
