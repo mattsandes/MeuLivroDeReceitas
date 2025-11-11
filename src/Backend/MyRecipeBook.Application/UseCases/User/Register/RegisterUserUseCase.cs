@@ -11,7 +11,6 @@ public class RegisterUserUseCase
     {
         Validate(request);
         
-        // mapear a request em uma entidade;
         var autoMapper = new AutoMapper.MapperConfiguration(opt =>
         {
             opt.AddProfile(new AutoMapping());
